@@ -1,2 +1,2 @@
-# samsung-news
-삼성 뉴스룸 기사 - 매일 오전 8시 + 노션 DB
+# gpters-21th-automation
+지피터스 21기 안상영 스터디장_AI 자동화
